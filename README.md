@@ -12,7 +12,6 @@
                                 [ 6 ]  -  Admin Page Finder
                                 [ 7 ]  -  WebSite Information
                                 [ 8 ]  -  Port Scanner
-                        
                                 [ 9 ]  -  Show HTTP Header  
                                   00   -  Return To Main Menu        
                                    0   -  Exit

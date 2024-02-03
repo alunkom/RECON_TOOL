@@ -13,8 +13,11 @@
                                 [ 7 ]  -  WebSite Information
                                 [ 8 ]  -  Port Scanner
                                 [ 9 ]  -  Show HTTP Header  
-                                  00   -  Return To Main Menu        
+                                  00   -  Return To Main Menu     
                                    0   -  Exit
                              
 ## HOW to use ? 
+  # GET START WITH TOOL :
+    1 . You need to have Python3 in your system (if you don't have you can download from https://www.python.org/downloads/ )
+    2 . Now clone reposetory and install requierments.txt with pip install -r requirements. txt
     So easy just clone it and run main.py

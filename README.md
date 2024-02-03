@@ -20,5 +20,5 @@
   # GET START WITH TOOL :
    ###  1 . You need to have Python3 in your system (if you don't have you can download from: https://www.python.org/downloads/ )
    ###  2 . Now clone reposetory and install requierments.txt with
-    pip install -r requirements. txt
+    pip install -r requirements.txt
    ###  3. Now run the main in your cmd or Terminal

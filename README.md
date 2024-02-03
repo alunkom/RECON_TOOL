@@ -21,5 +21,5 @@
    ###  1 . You need to have Python3 in your system (if you don't have you can download from: https://www.python.org/downloads/ )
    ###  2 . Now clone reposetory and install requierments.txt with
     pip install -r requirements.txt
-   ###  3. Now run the main in your cmd or Terminal
+   ###  3. Now run the main.py in your cmd or Terminal with the command below:
     pyhton main.py

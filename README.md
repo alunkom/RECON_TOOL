@@ -22,3 +22,4 @@
    ###  2 . Now clone reposetory and install requierments.txt with
     pip install -r requirements.txt
    ###  3. Now run the main in your cmd or Terminal
+    pyhton main.py
